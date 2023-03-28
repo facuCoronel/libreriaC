@@ -1,0 +1,17 @@
+C:\Users\facun\OneDrive\Desktop\CapacitacionAlejandro\Bbl\bin\Debug\net6.0\Bbl.deps.json
+C:\Users\facun\OneDrive\Desktop\CapacitacionAlejandro\Bbl\bin\Debug\net6.0\Bbl.dll
+C:\Users\facun\OneDrive\Desktop\CapacitacionAlejandro\Bbl\bin\Debug\net6.0\Bbl.pdb
+C:\Users\facun\OneDrive\Desktop\CapacitacionAlejandro\Bbl\bin\Debug\net6.0\AccesoDatos.dll
+C:\Users\facun\OneDrive\Desktop\CapacitacionAlejandro\Bbl\bin\Debug\net6.0\Modelos.dll
+C:\Users\facun\OneDrive\Desktop\CapacitacionAlejandro\Bbl\bin\Debug\net6.0\AccesoDatos.pdb
+C:\Users\facun\OneDrive\Desktop\CapacitacionAlejandro\Bbl\bin\Debug\net6.0\Modelos.pdb
+C:\Users\facun\OneDrive\Desktop\CapacitacionAlejandro\Bbl\obj\Debug\net6.0\Bbl.csproj.AssemblyReference.cache
+C:\Users\facun\OneDrive\Desktop\CapacitacionAlejandro\Bbl\obj\Debug\net6.0\Bbl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facun\OneDrive\Desktop\CapacitacionAlejandro\Bbl\obj\Debug\net6.0\Bbl.AssemblyInfoInputs.cache
+C:\Users\facun\OneDrive\Desktop\CapacitacionAlejandro\Bbl\obj\Debug\net6.0\Bbl.AssemblyInfo.cs
+C:\Users\facun\OneDrive\Desktop\CapacitacionAlejandro\Bbl\obj\Debug\net6.0\Bbl.csproj.CoreCompileInputs.cache
+C:\Users\facun\OneDrive\Desktop\CapacitacionAlejandro\Bbl\obj\Debug\net6.0\Bbl.csproj.CopyComplete
+C:\Users\facun\OneDrive\Desktop\CapacitacionAlejandro\Bbl\obj\Debug\net6.0\Bbl.dll
+C:\Users\facun\OneDrive\Desktop\CapacitacionAlejandro\Bbl\obj\Debug\net6.0\refint\Bbl.dll
+C:\Users\facun\OneDrive\Desktop\CapacitacionAlejandro\Bbl\obj\Debug\net6.0\Bbl.pdb
+C:\Users\facun\OneDrive\Desktop\CapacitacionAlejandro\Bbl\obj\Debug\net6.0\ref\Bbl.dll

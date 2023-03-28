@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "VMiGkNAwpBv9wol3LcV7V7YIdrlJ3zm5ftBM4yw7fJU=",
+  "Source": "Api.Empleados",
+  "BasePath": "_content/Api.Empleados",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

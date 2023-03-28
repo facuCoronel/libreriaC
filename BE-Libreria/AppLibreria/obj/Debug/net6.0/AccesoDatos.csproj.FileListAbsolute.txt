@@ -1,0 +1,12 @@
+C:\Users\facun\OneDrive\Desktop\CapacitacionAlejandro\AppLibreria\bin\Debug\net6.0\AccesoDatos.deps.json
+C:\Users\facun\OneDrive\Desktop\CapacitacionAlejandro\AppLibreria\bin\Debug\net6.0\AccesoDatos.dll
+C:\Users\facun\OneDrive\Desktop\CapacitacionAlejandro\AppLibreria\bin\Debug\net6.0\AccesoDatos.pdb
+C:\Users\facun\OneDrive\Desktop\CapacitacionAlejandro\AppLibreria\obj\Debug\net6.0\AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\facun\OneDrive\Desktop\CapacitacionAlejandro\AppLibreria\obj\Debug\net6.0\AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facun\OneDrive\Desktop\CapacitacionAlejandro\AppLibreria\obj\Debug\net6.0\AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\facun\OneDrive\Desktop\CapacitacionAlejandro\AppLibreria\obj\Debug\net6.0\AccesoDatos.AssemblyInfo.cs
+C:\Users\facun\OneDrive\Desktop\CapacitacionAlejandro\AppLibreria\obj\Debug\net6.0\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\facun\OneDrive\Desktop\CapacitacionAlejandro\AppLibreria\obj\Debug\net6.0\AccesoDatos.dll
+C:\Users\facun\OneDrive\Desktop\CapacitacionAlejandro\AppLibreria\obj\Debug\net6.0\refint\AccesoDatos.dll
+C:\Users\facun\OneDrive\Desktop\CapacitacionAlejandro\AppLibreria\obj\Debug\net6.0\AccesoDatos.pdb
+C:\Users\facun\OneDrive\Desktop\CapacitacionAlejandro\AppLibreria\obj\Debug\net6.0\ref\AccesoDatos.dll
